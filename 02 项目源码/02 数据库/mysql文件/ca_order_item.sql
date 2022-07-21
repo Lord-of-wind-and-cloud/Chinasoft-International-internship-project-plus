@@ -1,0 +1,13 @@
+INSERT INTO `ca_order_item` VALUES (1, 2, 1, 15, 1, '2021-07-29 15:44:22', 3, 'served', '前菜');
+INSERT INTO `ca_order_item` VALUES (2, 2, 1, 18, 1, '2021-07-29 15:44:28', 2, 'served', '主菜');
+INSERT INTO `ca_order_item` VALUES (3, 2, 1, 10, 1, '2021-07-29 15:44:16', 1, 'served', '');
+INSERT INTO `ca_order_item` VALUES (4, 2, 4, 10, 2, '2021-07-29 15:45:55', 2, 'served', '双人餐');
+INSERT INTO `ca_order_item` VALUES (5, 2, 7, 17, 1, '2021-07-29 15:45:57', 1, 'served', '尝试');
+INSERT INTO `ca_order_item` VALUES (6, 5, 1, 13, 1, '2021-07-29 16:21:17', 2, 'served', '前菜');
+INSERT INTO `ca_order_item` VALUES (7, 5, 1, 18, 2, '2021-07-29 16:21:22', 3, 'served', '主菜');
+INSERT INTO `ca_order_item` VALUES (8, 5, 1, 10, 1, '2021-07-29 16:21:15', 1, 'served', '甜点');
+INSERT INTO `ca_order_item` VALUES (9, 6, 4, 10, 2, '2021-07-29 16:21:20', 1, 'served', '轻食');
+INSERT INTO `ca_order_item` VALUES (10, 7, 7, 14, 1, '2021-07-29 16:21:19', 2, 'served', '尝试');
+INSERT INTO `ca_order_item` VALUES (11, 7, 7, 17, 1, '2021-07-29 16:21:24', 3, 'served', '尝试');
+INSERT INTO `ca_order_item` VALUES (12, 8, 3, 12, 1, '2021-07-29 17:15:25', 1, 'served', 'test');
+INSERT INTO `ca_order_item` VALUES (13, 11, 4, 12, 1, '2021-07-29 20:58:11', 1, 'assigned', '');
